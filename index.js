@@ -29,4 +29,3 @@ function currentLine(line){
   }
   return result.slice(0, [result.length - 2])
 }
-
